@@ -233,7 +233,7 @@
       <!-- Team Member 1 -->
       <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-2">
         <div class="relative">
-          <img src="../../assets/allam.jpeg" alt="Muhammad Alallam" class="w-full h-64 object-cover">
+          <img src="../../assets/allam.jpeg" alt="Muhammad Alallam" class="w-full h-auto object-cover">
           <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
         </div>
         <div class="p-6">
@@ -246,7 +246,7 @@
       <!-- Team Member 2 -->
       <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-2">
         <div class="relative">
-          <img src="../../assets/ansam.jpeg" alt="Ansam Elwaer" class="w-full h-64 object-cover">
+          <img src="../../assets/ansam.jpeg" alt="Ansam Elwaer" class="w-full h-auto object-cover">
           <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
         </div>
         <div class="p-6">
@@ -259,7 +259,7 @@
       <!-- Team Member 3 -->
       <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-2">
         <div class="relative">
-          <img src="../../assets/reda.jpeg" alt="Reda Elalous" class="w-full h-64 object-cover">
+          <img src="../../assets/reda.jpeg" alt="Reda Elalous" class="w-full h-auto object-cover">
           <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
         </div>
         <div class="p-6">
@@ -272,7 +272,7 @@
       <!-- Team Member 4 -->
       <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-2">
         <div class="relative">
-          <img src="../../assets/abdullah.jpeg" alt="Abdullah" class="w-full h-64 object-cover">
+          <img src="../../assets/abdullah.jpeg" alt="Abdullah" class="w-full h-auto object-cover">
           <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
         </div>
         <div class="p-6">

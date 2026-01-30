@@ -214,7 +214,7 @@
       </div>
       
       <div class="lg:text-right">
-        <img class="rounded-xl shadow-lg" src="../../assets/image2.jpeg" alt="Medical Drone Solution">
+        <img class="rounded-xl shadow-lg" src="../../assets/DSC00040.jpg" alt="Medical Drone Solution">
       </div>
     </div>
   </div>
@@ -233,7 +233,7 @@
       <!-- Team Member 1 -->
       <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-2">
         <div class="relative">
-          <img src="../../assets/allam.jpeg" alt="Muhammad Alallam" class="w-full h-auto object-cover">
+          <img src="../../assets/allam2.jpeg" alt="Muhammad Alallam" class="w-full h-auto object-cover">
           <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
         </div>
         <div class="p-6">
@@ -246,7 +246,7 @@
       <!-- Team Member 2 -->
       <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-2">
         <div class="relative">
-          <img src="../../assets/ansam.jpeg" alt="Ansam Elwaer" class="w-full h-auto object-cover">
+          <img src="../../assets/ansam2.jpeg" alt="Ansam Elwaer" class="w-full h-auto object-cover">
           <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
         </div>
         <div class="p-6">

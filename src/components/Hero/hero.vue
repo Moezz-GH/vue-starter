@@ -646,25 +646,34 @@
       <div class="grid md:grid-cols-3 gap-8">
         <div class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-2xl border border-blue-100 text-center transition-all duration-300 hover:scale-[1.02]">
           <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-            <span class="text-2xl font-bold text-blue-600">SDG 3</span>
+            <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
+            </svg>
           </div>
-          <h4 class="text-xl font-semibold text-foreground mb-2">Good Health & Well-Being</h4>
+          <h4 class="text-xl font-semibold text-foreground mb-2">SDG 3</h4>
+          <h5 class="text-lg font-medium text-blue-700 mb-2">Good Health & Well-Being</h5>
           <p class="text-muted-foreground-1">Faster emergency medical access and life-saving supplies delivered in minutes</p>
         </div>
         
         <div class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-2xl border border-blue-100 text-center transition-all duration-300 hover:scale-[1.02]">
           <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-            <span class="text-2xl font-bold text-blue-600">SDG 9</span>
+            <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
+            </svg>
           </div>
-          <h4 class="text-xl font-semibold text-foreground mb-2">Industry, Innovation & Infrastructure</h4>
+          <h4 class="text-xl font-semibold text-foreground mb-2">SDG 9</h4>
+          <h5 class="text-lg font-medium text-blue-700 mb-2">Industry, Innovation & Infrastructure</h5>
           <p class="text-muted-foreground-1">Drone-powered health delivery network and new medical logistics infrastructure</p>
         </div>
         
         <div class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-2xl border border-blue-100 text-center transition-all duration-300 hover:scale-[1.02]">
           <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-            <span class="text-2xl font-bold text-blue-600">SDG 10</span>
+            <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
+            </svg>
           </div>
-          <h4 class="text-xl font-semibold text-foreground mb-2">Reduced Inequalities</h4>
+          <h4 class="text-xl font-semibold text-foreground mb-2">SDG 10</h4>
+          <h5 class="text-lg font-medium text-blue-700 mb-2">Reduced Inequalities</h5>
           <p class="text-muted-foreground-1">Healthcare access for remote communities and equal emergency support regardless of location</p>
         </div>
       </div>
